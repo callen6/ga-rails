@@ -3,3 +3,6 @@
 # To ban all spiders from the entire site uncomment the next two lines:
 # User-agent: *
 # Disallow: /
+
+# you can tell google not to crawl your site while you're developing it
+# all good crawling robots will respect the robots.txt file
